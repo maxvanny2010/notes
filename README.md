@@ -1,6 +1,15 @@
 # React Module 2 PWA
+https://notes-bcaa2.web.app
 
 ## Project: Note
+
+#### [pwa install page]
+
+![pwa-install](public/assets/screenshots/pwa-install.png)
+
+#### [pwa page]
+
+![pwa](public/assets/screenshots/pwa.png)
 
 #### [moby home page]
 
